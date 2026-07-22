@@ -1,6 +1,6 @@
 baseURL = "https://TruongHoangAnh0901.github.io/Workshop_TruongHoangAnh/"
-relativeURLs = false
-canonifyURLs = false
+relativeURLs = true
+canonifyURLs = true
 defaultContentLanguage = "en"
 
 # Change the default theme to be use when building the site with Hugo
